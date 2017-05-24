@@ -1,2 +1,2 @@
 # JeremyKritz.github.io
-Personal Website
+There will be things here eventually.
